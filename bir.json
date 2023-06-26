@@ -1,0 +1,217 @@
+{
+    "success": true,
+    "error": null,
+    "data": [
+        {
+            "subject": {
+                "id": 4581,
+                "name": "Differensial tenglamalar"
+            },
+            "semester": {
+                "id": 3339,
+                "code": "14",
+                "name": "4-semestr",
+                "current": true,
+                "education_year": {
+                    "code": "2022",
+                    "name": "2022-2023",
+                    "current": true
+                }
+            },
+            "trainingType": {
+                "code": "11",
+                "name": "Ma’ruza"
+            },
+            "lessonPair": {
+                "code": "11",
+                "name": "1",
+                "start_time": "08:30",
+                "end_time": "09:50"
+            },
+            "employee": {
+                "id": 211,
+                "name": "JUMAYEV J. N."
+            },
+            "absent_on": 0,
+            "absent_off": 2,
+            "lesson_date": 1680480000,
+            "explicable": false
+        },
+        {
+            "subject": {
+                "id": 3776,
+                "name": "Algoritmik tillar va dasturlash"
+            },
+            "semester": {
+                "id": 3339,
+                "code": "14",
+                "name": "4-semestr",
+                "current": true,
+                "education_year": {
+                    "code": "2022",
+                    "name": "2022-2023",
+                    "current": true
+                }
+            },
+            "trainingType": {
+                "code": "11",
+                "name": "Ma’ruza"
+            },
+            "lessonPair": {
+                "code": "11",
+                "name": "1",
+                "start_time": "08:30",
+                "end_time": "09:50"
+            },
+            "employee": {
+                "id": 620,
+                "name": "MATANOV M. CH."
+            },
+            "absent_on": 0,
+            "absent_off": 2,
+            "lesson_date": 1676505600,
+            "explicable": false
+        },
+        {
+            "subject": {
+                "id": 3770,
+                "name": "Xorijiy til(nemis)"
+            },
+            "semester": {
+                "id": 3780,
+                "code": "13",
+                "name": "3-semestr",
+                "current": false,
+                "education_year": {
+                    "code": "2021",
+                    "name": "2021-2022",
+                    "current": false
+                }
+            },
+            "trainingType": {
+                "code": "13",
+                "name": "Amaliy"
+            },
+            "lessonPair": {
+                "code": "13",
+                "name": "3",
+                "start_time": "11:30",
+                "end_time": "12:50"
+            },
+            "employee": {
+                "id": 1381,
+                "name": "JURAYEVA N. T."
+            },
+            "absent_on": 0,
+            "absent_off": 2,
+            "lesson_date": 1670544000,
+            "explicable": false
+        },
+        {
+            "subject": {
+                "id": 4581,
+                "name": "Differensial tenglamalar"
+            },
+            "semester": {
+                "id": 3780,
+                "code": "13",
+                "name": "3-semestr",
+                "current": false,
+                "education_year": {
+                    "code": "2021",
+                    "name": "2021-2022",
+                    "current": false
+                }
+            },
+            "trainingType": {
+                "code": "13",
+                "name": "Amaliy"
+            },
+            "lessonPair": {
+                "code": "12",
+                "name": "2",
+                "start_time": "10:00",
+                "end_time": "11:20"
+            },
+            "employee": {
+                "id": 211,
+                "name": "JUMAYEV J. N."
+            },
+            "absent_on": 0,
+            "absent_off": 2,
+            "lesson_date": 1667347200,
+            "explicable": false
+        },
+        {
+            "subject": {
+                "id": 4581,
+                "name": "Differensial tenglamalar"
+            },
+            "semester": {
+                "id": 3780,
+                "code": "13",
+                "name": "3-semestr",
+                "current": false,
+                "education_year": {
+                    "code": "2021",
+                    "name": "2021-2022",
+                    "current": false
+                }
+            },
+            "trainingType": {
+                "code": "11",
+                "name": "Ma’ruza"
+            },
+            "lessonPair": {
+                "code": "11",
+                "name": "1",
+                "start_time": "08:30",
+                "end_time": "09:50"
+            },
+            "employee": {
+                "id": 211,
+                "name": "JUMAYEV J. N."
+            },
+            "absent_on": 0,
+            "absent_off": 2,
+            "lesson_date": 1667347200,
+            "explicable": false
+        },
+        {
+            "subject": {
+                "id": 376,
+                "name": "O'zbekiston tarixi"
+            },
+            "semester": {
+                "id": 223,
+                "code": "12",
+                "name": "2-semestr",
+                "current": false,
+                "education_year": {
+                    "code": "2019",
+                    "name": "2019-2020",
+                    "current": false
+                }
+            },
+            "trainingType": {
+                "code": "11",
+                "name": "Ma’ruza"
+            },
+            "lessonPair": {
+                "code": "11",
+                "name": "1",
+                "start_time": "08:30",
+                "end_time": "09:50"
+            },
+            "employee": {
+                "id": 1218,
+                "name": "POLVONOV K. N."
+            },
+            "absent_on": 0,
+            "absent_off": 2,
+            "lesson_date": 1649376000,
+            "explicable": false
+        }
+    ],
+    "code": 200
+}
